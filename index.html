@@ -727,7 +727,7 @@
         ],
         statusHeading: '작업 슬롯 현황 및 공지',
         statusCta: '의뢰 신청하기',
-        slotsSubheading: 'Monthly Slots (클릭 시 상태 변경)',
+        slotsSubheading: 'Monthly Slots',
         noticesSubheading: 'Notices',
         slotStates: { open: '모집 중', limited: '일부 가능', closed: '마감' },
         contactHeading: '의뢰 및 협업 문의',
@@ -789,7 +789,7 @@
         ],
         statusHeading: 'Work Slots & Notices',
         statusCta: 'Request Commission',
-        slotsSubheading: 'Monthly Slots (Click to toggle)',
+        slotsSubheading: 'Monthly Slots',
         noticesSubheading: 'Notices',
         slotStates: { open: 'Open', limited: 'Limited', closed: 'Closed' },
         contactHeading: 'Commission & Inquiry',
@@ -851,7 +851,7 @@
         ],
         statusHeading: '作業スロット状況・お知らせ',
         statusCta: '制作を依頼する',
-        slotsSubheading: 'Monthly Slots (クリックで変更)',
+        slotsSubheading: 'Monthly Slots',
         noticesSubheading: 'Notices',
         slotStates: { open: '受付中', limited: '残りわずか', closed: '受付終了' },
         contactHeading: '制作のご依頼・お問い合わせ',
@@ -2777,6 +2777,10 @@
 
     function closeProjectModal() {
       const modal = document.getElementById('project-modal');
+      const wrap = document.getElementById('modal-player-wrap');
+      const procGrid = document.getElementById('modal-process-grid');
+      if (wrap) wrap.innerHTML = '';
+      if (procGrid) procGrid.innerHTML = '';
       modal.classList.add('hidden');
       modal.classList.remove('flex');
       document.body.style.overflow = '';
