@@ -444,11 +444,6 @@
             <i data-lucide="trash-2" class="h-3 w-3"></i>
             <span>삭제</span>
           </button>
-          <button id="btn-toggle-wip-demo" type="button"
-            class="hidden sm:inline-flex items-center gap-1.5 rounded-lg bg-navy/80 border border-accent/40 px-3 py-1 text-xs font-medium text-accent hover:bg-accent hover:text-navy transition-colors">
-            <i data-lucide="layers" class="h-3.5 w-3.5"></i>
-            <span id="label-toggle-wip-demo">WIP</span>
-          </button>
           <button id="btn-close-modal" type="button" aria-label="모달 닫기"
             class="rounded-lg p-1.5 text-ink opacity-75 hover:bg-brand/30 hover:opacity-100 transition-colors">
             <i data-lucide="x" class="h-5 w-5"></i>
@@ -2753,24 +2748,21 @@
       const section = document.getElementById('modal-process-section');
       const grid = document.getElementById('modal-process-grid');
       const countEl = document.getElementById('modal-process-count');
-      const toggleLabel = document.getElementById('label-toggle-wip-demo');
 
-      const hasProcess = proj.process && proj.process.length > 0;
-      toggleLabel.textContent = hasProcess ? 'WIP 숨기기' : 'WIP 추가';
-
-      if (!hasProcess) {
+      const items = (proj.process || []).filter(item => (item.note && item.note.trim()) || item.mediaSrc);
+      if (items.length === 0) {
         section.classList.add('hidden');
         grid.innerHTML = '';
         return;
       }
 
       section.classList.remove('hidden');
-      countEl.textContent = `${proj.process.length} ITEMS`;
-      grid.className = proj.process.length === 1
+      countEl.textContent = `${items.length} ITEMS`;
+      grid.className = items.length === 1
         ? 'grid grid-cols-1 gap-4'
         : 'grid grid-cols-1 gap-4 sm:grid-cols-2';
 
-      grid.innerHTML = proj.process.map(item => `
+      grid.innerHTML = items.map(item => `
         <div class="rounded-lg bg-navy/70 border border-brand/35 p-4 space-y-2">
           <span class="text-[10px] font-sans uppercase tracking-wider text-accent">${item.label}</span>
           ${item.mediaSrc ? (item.mediaType === 'video'
@@ -2782,20 +2774,6 @@
       `).join('');
     }
 
-    document.getElementById('btn-toggle-wip-demo').addEventListener('click', () => {
-      const proj = state.projects.find(p => p.id === state.activeProjectId);
-      if (!proj) return;
-      if (proj.process && proj.process.length > 0) {
-        state.tempWipBackup[proj.id] = proj.process;
-        proj.process = [];
-      } else {
-        proj.process = state.tempWipBackup[proj.id] || [
-          { label: 'WIP · BREAKDOWN', title: '제작 과정 & 레이어 분해', note: 'WIP 데이터가 추가되어 하단 제작 과정 영역이 자동으로 확장되었습니다.' }
-        ];
-      }
-      renderAdaptiveProcessSection(proj);
-      renderProjects();
-    });
 
     function closeProjectModal() {
       const modal = document.getElementById('project-modal');
@@ -3698,7 +3676,7 @@
     }
 
     if (!IS_ADMIN_MODE) {
-      ['btn-open-editor', 'btn-quick-add-work', 'btn-top-publish-github', 'btn-reorder-mode', 'editor-drawer', 'btn-edit-project', 'btn-delete-project', 'btn-toggle-wip-demo'].forEach(id => {
+      ['btn-open-editor', 'btn-quick-add-work', 'btn-top-publish-github', 'btn-reorder-mode', 'editor-drawer', 'btn-edit-project', 'btn-delete-project'].forEach(id => {
         const el = document.getElementById(id);
         if (el) el.classList.add('hidden');
       });
