@@ -1,0 +1,1143 @@
+{
+  "projects": [
+    {
+      "id": "proj-1795700481721",
+      "title": "야생소녀:Rebirth 런칭 PV",
+      "client": "SESISOFT",
+      "tools": [
+        "After Effects",
+        "Photoshop"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "2d_animating",
+        "design",
+        "editing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/aAE7sZOVzC8?si=x3dhEaoGN-dQXUXG",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-11-06",
+      "mainCategories": [
+        "pv"
+      ]
+    },
+    {
+      "id": "proj-1795700396933",
+      "title": "야생소녀:Rebirth 사전예약 PV",
+      "client": "SESISOFT",
+      "tools": [
+        "After Effects",
+        "Photoshop",
+        "Clip Studio"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "design",
+        "editing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/dY-lgCuyIC8?si=FafqlOZ-7fzYeg2r",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-10-15",
+      "mainCategories": [
+        "pv"
+      ]
+    },
+    {
+      "id": "proj-1795700361090",
+      "title": "믿을 사람을 믿어야지!! 크하하하하!!!",
+      "client": "빨간내복야코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/AOR-Fjs0Fts?si=XTynlLM723G84Ak2",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-08-08",
+      "mainCategories": [
+        "pv",
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795701415314",
+      "title": "Yuuri - Leo (レオ) | cover",
+      "client": "게으른곰",
+      "tools": [
+        "After Effects",
+        "Photoshop"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/csviRCEnPtg?si=yQqTf0VGXAryqMuv",
+      "featured": false,
+      "publishedAt": "2026-08-01",
+      "createdAt": 1795701415314,
+      "desc": "",
+      "process": [],
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795700329388",
+      "title": "외계인의 지구 아이돌 덕질기!",
+      "client": "빨간내복야코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/3DXjbzsM4nI?si=p5A2P2SjaKGEPaC2",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-07-04",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795700309931",
+      "title": "야야족 레고 헌터스",
+      "client": "빨간내복야코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/ASnh6x3DzS4?si=iyzssrCXjEV4VZWt",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-06-20",
+      "mainCategories": [
+        "pv",
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795700344680",
+      "title": "[유소하 생일기념]  좋아하니까(好きだから)  /  네즈X유소하 Korean cover",
+      "client": "유소하",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/7qvIax8wdig?si=DJL81bqVPBTM-fmA",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-06-08",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795700197445",
+      "title": "인터뷰",
+      "client": "빨간내복야코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/GylpHl7L7Ik?si=lBLgxtJ4sNeEACIS",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-06-04",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795700166936",
+      "title": "우나 알람 _ 깡총총 Cover",
+      "client": "깡총총",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/g4dNMjxtc08?si=B3m-dY-qK4kuLMaz",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-05-23",
+      "mainCategories": [
+        "mv_copy"
+      ]
+    },
+    {
+      "id": "proj-1795700150607",
+      "title": "누가 허락 안받고...",
+      "client": "빨간내복야코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/M75BpR4JKxU?si=oulVewu-8vGfZzjA",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-05-14",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795700136859",
+      "title": "심령사진",
+      "client": "빨간내복야코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/zWHYAXpCyyc?si=KmdRNFvcDgZszPqg",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-05-07",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795700081704",
+      "title": "アフターペイン(애프터페인) | PPAna cover",
+      "client": "빠나",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/yltdq6Uen8Q?si=8d02zOMvEEMdP7Pu",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-05-04",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795700065001",
+      "title": "ULTRA C （Giga & TeddyLoid）/ marimo × Wa9me × Shiro × Utakuma Cover",
+      "client": "marimo",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/lqjqocWIuHs?si=VsOtIZyQPWzLQTcK",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-03-06",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795700027043",
+      "title": "조용히 완전히 영원히 (Silently Completely Eternally) :: Original MV",
+      "client": "푸른새싹 official",
+      "tools": [
+        "After Effects",
+        "Photoshop",
+        "Clip Studio"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "2d_animating",
+        "design",
+        "editing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/2bOOWGCJnIM?si=pIjbEf1LBVRtUjWv",
+      "featured": false,
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-03-05",
+      "mainCategories": [
+        "mv",
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795697673168",
+      "title": "いらっしゃい！ここは迷子保護所！/ SOOZ feat. 重音テトSV",
+      "client": "Sooz",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "compositing",
+        "2d_animating",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/SvRzEo6V2zU?si=bq7M6I7V0D5oBTqA",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-02-20",
+      "mainCategories": [
+        "mv",
+        "animation"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795697643138",
+      "title": "탄지로의 노래 ㅣ 감미녀【Cover】",
+      "client": "Virtual 감미녀",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/6xt95tSVcxw?si=OxM_ickTMuZQuZus",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2026-01-31",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795697618177",
+      "title": "비밀스러운 일이 하고 싶어｜夕立のりぼん Korean COVER",
+      "client": "진태서 ENVYKANA",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/grZpwx32Gs8?si=bYpjapWV2aUCt9W3",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-12-16",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795697593765",
+      "title": "자그마한 나 (Cover by 캐니)",
+      "client": "캐니",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/UxSllXXWRXs?si=UEVyT9ayAg1z2qkD",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-11-30",
+      "mainCategories": [
+        "mv_copy"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795697391855",
+      "title": "베텔기우스 - Yuuri COVER - (한국어 Ver.)",
+      "client": "아티에",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/GHcv_k5Myg4?si=SmNpU7hS4x4LLJkE",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-11-09",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795697358787",
+      "title": "[버츄얼 데뷔 PV|Vtuber Debut PV] 몰락귀족 버튜버 카네, 데뷔하는 것이에요-! #vtuber",
+      "client": "카네Kane",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "design",
+        "editing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/3xK0t7zNFbU?si=SD7Z2BxjogF0_-TK",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-10-06",
+      "mainCategories": [
+        "pv"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795697192929",
+      "title": "[블루 아카이브 팬게임] 밀레니엄24 인수분해점 런칭! PC & MOBILE",
+      "client": "블카유카 BlkaYuka",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/fy479JhBEtY?si=BtJk_8ts4S6mPyax",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-09-30",
+      "mainCategories": [
+        "pv"
+      ]
+    },
+    {
+      "id": "proj-1795696907334",
+      "title": "테토리스 (テトリス) / Cover by 고 결",
+      "client": "고결",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/XUmTp66PZ7Q?si=zPXbfCfd-dgl7l2X",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-09-21",
+      "mainCategories": [
+        "mv_copy"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795696859160",
+      "title": "무지성댄스 챌린지 (토로리코코ver.) #무지성댄스 #챌린지",
+      "client": "토로리 코코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/yPI_neOnM6k?si=WGJ1ClqnFhAhXcG9",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-08-21",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795696831732",
+      "title": "우이! 스키! 러브! 하이 ✨ !#ういこうせん #しぐれうい",
+      "client": "세이키",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/IZNzoY8G3z0?si=kDUQUslnj55swsUl",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-07-29",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795695859135",
+      "title": "メズマライザー(Ver.기랑)",
+      "client": "기랑",
+      "tools": [
+        "After Effects",
+        "Illustrator"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/-x2cPYuACHw?si=wWXRnimD6g9HUWBB",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-07-28",
+      "mainCategories": [
+        "animation",
+        "mv_copy"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795695891498",
+      "title": "답장 아직일까💦❓아저씨 구문😁❗️  #おじさん構文 #아저씨구문",
+      "client": "세이키",
+      "tools": [
+        "After Effects",
+        "Clip Studio"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/7r-0CwKIjBM?si=Tif1SPFO-1_svsR7",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-07-19",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795695930521",
+      "title": "모람멘션 8월 입주예정",
+      "client": "모람멘션 302호",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/5TeiZvFKWeA?si=Yy9ty5CKsTvpmEI5",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-07-18",
+      "mainCategories": [
+        "pv"
+      ]
+    },
+    {
+      "id": "proj-1795695966461",
+      "title": "코마리 네무 PV",
+      "client": "코마리 네무 Komari Nemu",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/uX274bARkco?si=GdiRoNYIWlgranam",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-07-05",
+      "mainCategories": [
+        "pv"
+      ]
+    },
+    {
+      "id": "proj-1795695986809",
+      "title": "[FLYING] 버터플라이 [한국어 커버]",
+      "client": "계원VR",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/G0xQQrk0VZc?si=k8VRTT5CwSchf-F2",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-06-29",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795696779854",
+      "title": "【밍쑨】 봄꿈 Cover",
+      "client": "밍쑨",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/njRftsP63xo?si=rfuyOfKKKiBTz0ry",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-06-26",
+      "mainCategories": [
+        "mv_copy"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795696760646",
+      "title": "렛시 ★ 사요나라메모리즈 [ 한국어 커버 ]",
+      "client": "계원VR",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/K_nHv1aJClk?si=KkuINSr04IcXM0yG",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-06-22",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795696742204",
+      "title": "꼭두각시 피에로 X 망가진 피에로 (からくりピエロX壊れたピエロ) / 2+3人 cover",
+      "client": "도트 ドット",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/_YVv9SZrauE?si=kt2DXtP4Bw1cCSYJ",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-05-20",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795696729814",
+      "title": "🌻피날레 (에일) [フィナーレ。(eill)] l 해닝 Cover📹",
+      "client": "해닝",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/T-kyuwWiAgA?si=uRVpJ4xxioxtGV9k",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-03-27",
+      "mainCategories": [
+        "mv"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795696804732",
+      "title": "[1주년] 네네코 마시로 - ‘봄꿈’ COVER ☁️",
+      "client": "마우쥐 MauG",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/Fm0dlABE6gw?si=BmbKsZytjF8DnrMR",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-03-24",
+      "mainCategories": [
+        "mv_copy"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795696714746",
+      "title": "「우냥」 Ruru(루루) - '미안하다는말이제일어려워'  COVER 커버",
+      "client": "우냥",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/o1QHJ7EJ9mo?si=DvyDqIU4zb9OKTfU",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-03-21",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795696692598",
+      "title": "【푸른새싹】멜랑콜릭 (メランコリック)",
+      "client": "푸른새싹 official",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing",
+        "design"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/g6vO4fEf64U?si=iqJmEVy3nVi-mtDS",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2025-01-02",
+      "mainCategories": [
+        "mv"
+      ],
+      "featured": false
+    },
+    {
+      "id": "proj-1795696221608",
+      "title": "[10人 합창] CHANGE UP! - SQUARE MUSIQ COVER -",
+      "client": "아티에",
+      "tools": [
+        "After Effects",
+        "Photoshop"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/pC47tPEGnQ8?si=1uKfLB4qIiFDPMn1",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-12-24",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795694699012",
+      "title": "망울이의 말랑이 허니파이 밈 - HONEYPIE meme #animation",
+      "client": "망울이의 망상연구실",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/78PbNymE3yA?si=RyV3X-7etQQ0Na6a",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-11-22",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795695819010",
+      "title": "[마우쥐] 한로로 - 자처(Even if you leave,) COVER 🌅",
+      "client": "마우쥐 MauG",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/MGYgAYkbcu0?si=fbalNVZOKrndRg_L",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-11-11",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795694662675",
+      "title": "마이타케 댄스 #まいたけダンス",
+      "client": "해요",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/d8eZFnSj0uo?si=qJSeZiTMrSTjhsXk",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-10-07",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795694636926",
+      "title": "소히 허니파이🥧 HONEYPIE #meme",
+      "client": "소히",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/ANW0L0j902M?si=qy7-nKwxq9_3p3z8",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-09-13",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795694598564",
+      "title": "💜 DATEN ROUTE 💜 #vtuber #shorts",
+      "client": "카나프 KANAPH",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/forqEhIxF-4?si=8ybv5XA_nuRoELTc",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-09-10",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795694566801",
+      "title": "🐌DATEN ROUTE🐌🎐",
+      "client": "토로리 코코",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "2d_animating"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/4ySXSfklg8Y?si=HahOTdKeV10CTOfp",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-08-23",
+      "mainCategories": [
+        "animation"
+      ]
+    },
+    {
+      "id": "proj-1795695759346",
+      "title": "TO. X - 김웰로 COVERㅣ[태연 - TO.X]",
+      "client": "김웰로",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "pd",
+        "motion",
+        "compositing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/08hvh3_eGyU?si=d-JnuCWj01Ngqdqv",
+      "desc": "",
+      "process": [],
+      "publishedAt": "2024-03-26",
+      "mainCategories": [
+        "mv"
+      ]
+    },
+    {
+      "id": "proj-1795695731933",
+      "title": "아티에 영상 아웃트로",
+      "client": "아티에",
+      "tools": [
+        "After Effects"
+      ],
+      "tags": [
+        "motion",
+        "compositing",
+        "design",
+        "editing"
+      ],
+      "videoType": "youtube",
+      "videoSource": "https://youtu.be/-Bkb4VnIim4?si=fU7UvPW0rYN1lkgK",
+      "desc": "",
+      "process": [],
+      "mainCategories": [
+        "other"
+      ],
+      "featured": false,
+      "publishedAt": ""
+    }
+  ],
+  "tagOrder": [
+    "pd",
+    "motion",
+    "compositing",
+    "2d_animating",
+    "design",
+    "editing"
+  ],
+  "categoryOrders": {
+    "__ALL__": [
+      "proj-1795700481721",
+      "proj-1795700396933",
+      "proj-1795700361090",
+      "proj-1795701415314",
+      "proj-1795700329388",
+      "proj-1795700309931",
+      "proj-1795700344680",
+      "proj-1795700197445",
+      "proj-1795700166936",
+      "proj-1795700150607",
+      "proj-1795700136859",
+      "proj-1795700081704",
+      "proj-1795700065001",
+      "proj-1795700027043",
+      "proj-1795697673168",
+      "proj-1795697643138",
+      "proj-1795697618177",
+      "proj-1795697593765",
+      "proj-1795697391855",
+      "proj-1795697358787",
+      "proj-1795697192929",
+      "proj-1795696907334",
+      "proj-1795696859160",
+      "proj-1795696831732",
+      "proj-1795695859135",
+      "proj-1795695891498",
+      "proj-1795695930521",
+      "proj-1795695966461",
+      "proj-1795695986809",
+      "proj-1795696779854",
+      "proj-1795696760646",
+      "proj-1795696742204",
+      "proj-1795696729814",
+      "proj-1795696804732",
+      "proj-1795696714746",
+      "proj-1795696692598",
+      "proj-1795696221608",
+      "proj-1795694699012",
+      "proj-1795695819010",
+      "proj-1795694662675",
+      "proj-1795694636926",
+      "proj-1795694598564",
+      "proj-1795694566801",
+      "proj-1795695759346",
+      "proj-1795695731933",
+      "proj-1795695714563"
+    ]
+  },
+  "slots": [
+    {
+      "id": "s1",
+      "month": "2026.11",
+      "status": "closed",
+      "note": {
+        "ko": "진행 중인 프로젝트 마감",
+        "en": "Booked for ongoing projects",
+        "ja": "進行中案件のため締切"
+      }
+    },
+    {
+      "id": "s2",
+      "month": "2026.12",
+      "status": "limited",
+      "note": {
+        "ko": "짧은 PV / 화면전환 1슬롯 가능",
+        "en": "1 slot open for short PV / transition",
+        "ja": "ショートPV・トランジション1枠可能"
+      }
+    },
+    {
+      "id": "s3",
+      "month": "2027.01",
+      "status": "open",
+      "note": {
+        "ko": "MV · PV · 2D 애니메이팅 2슬롯 모집 중",
+        "en": "2 slots open for MV, PV & 2D animation",
+        "ja": "MV・PV・2Dアニメ 2枠募集中"
+      }
+    }
+  ],
+  "notices": [
+    {
+      "id": "n1",
+      "pinned": true,
+      "date": "2026.11.26",
+      "title": {
+        "ko": "외주 신청 전 안내사항",
+        "en": "Before Requesting a Commission",
+        "ja": "ご依頼前にお読みください"
+      },
+      "body": {
+        "ko": "음원·일러스트 파츠 분리 여부와 희망 마감일을 함께 전달해 주시면 보다 정확한 일정과 견적 안내가 가능합니다.",
+        "en": "Please let me know whether audio/layered illustrations are ready along with your target deadline for an accurate schedule.",
+        "ja": "音源・イラストのレイヤー分け状況とご希望納期を併せてお送りいただくと、スムーズにお見積り可能です。"
+      }
+    },
+    {
+      "id": "n2",
+      "pinned": false,
+      "date": "2026.11.20",
+      "title": {
+        "ko": "포트폴리오 사이트 리뉴얼 안내 (sesak.works)",
+        "en": "Portfolio Site Renewal (sesak.works)",
+        "ja": "ポートフォリオサイト公開のお知らせ"
+      },
+      "body": {
+        "ko": "쇼릴 및 작업물 아카이브는 순차적으로 업로드될 예정입니다. 기존 작업물은 YouTube 및 아트머그에서도 확인하실 수 있습니다.",
+        "en": "Showreel and project archives are being uploaded sequentially. Earlier works are also available on YouTube and Artmug.",
+        "ja": "リールおよび制作実績は順次公開予定です。過去作品はYouTube・Artmugからもご覧いただけます。"
+      }
+    }
+  ],
+  "mainCategories": [
+    {
+      "key": "__ALL__",
+      "ko": "전체",
+      "en": "All",
+      "ja": "すべて"
+    },
+    {
+      "key": "mv",
+      "ko": "MV",
+      "en": "MV",
+      "ja": "MV"
+    },
+    {
+      "key": "pv",
+      "ko": "PV",
+      "en": "PV",
+      "ja": "PV"
+    },
+    {
+      "key": "animation",
+      "ko": "Animation",
+      "en": "Animation",
+      "ja": "Animation"
+    },
+    {
+      "key": "mv_copy",
+      "ko": "MV copy",
+      "en": "MV copy",
+      "ja": "MV copy"
+    },
+    {
+      "key": "other",
+      "ko": "기타",
+      "en": "Other",
+      "ja": "その他"
+    }
+  ],
+  "customTagLabels": {},
+  "toolOptions": [
+    "After Effects",
+    "Premiere Pro",
+    "Photoshop",
+    "Illustrator",
+    "Clip Studio"
+  ]
+}
